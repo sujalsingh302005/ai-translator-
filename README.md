@@ -66,11 +66,7 @@ python3 main.py
 
 ---
 
-## 📸 Application Preview
 
-(Add screenshots here)
-
----
 
 ## 🚀 Future Scope
 
