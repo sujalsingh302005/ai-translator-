@@ -81,11 +81,7 @@ python3 main.py
 
 👉 [https://drive.google.com/file/d/15XSTBFCNVXS3uZxQXfB7E6Xg7DpE38W6/view?usp=sharing](https://drive.google.com/file/d/15XSTBFCNVXS3uZxQXfB7E6Xg7DpE38W6/view?usp=sharing)
 
----
 
-## 📸 Screenshots
-
-*Add screenshots here (recommended for better presentation)*
 
 ---
 
