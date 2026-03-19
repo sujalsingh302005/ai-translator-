@@ -1,5 +1,4 @@
-Got it 👍 — you want **everything strictly inside one markdown block (no extra text outside)**.
-Here you go — clean, complete, ready to paste:
+
 
 ---
 
